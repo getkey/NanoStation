@@ -6,7 +6,6 @@
 
 #include "entity.h"
 #include "character.h"
-#include "platform.h"
 
 #define SENSIBILITY 200
 #define PLATFORM_AMOUNT 3
